@@ -1,0 +1,1 @@
+Aquí hay conflictos tipo value_error
